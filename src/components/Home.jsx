@@ -22,10 +22,12 @@ const Home = () => {
         <p className='text-[teal] py-4 mx-auto text-2xl max-w-[500px]'>
           Welcome to my portfolio.
         </p>
+        
         <div>
-          <button className='text-white group border-2 rounded px-6 py-3 my-2 mx-auto flex items-center hover:bg-teal-600 hover:border-[teal] hover:text-black'>
+        <a href="https://drive.google.com/file/d/19qdD9fLJ2VSjCHq6xf-Z-zLgkBAKwHO7/view?usp=sharing">
+          <button className='text-white border-2 rounded px-6 py-3 my-2 mx-auto flex items-center hover:bg-teal-600 hover:border-[teal] hover:text-black'>
             Download Resume
-          </button>
+          </button></a>
         </div>
       </div>
     </div>
