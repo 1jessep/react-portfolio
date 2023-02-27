@@ -2,21 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 @layer base {
     body {
-        ;
-        @apply text-center;
-        
+        @apply text-center;    
     }
     li {
         @apply px-4;
         @apply cursor-pointer;
         
-        
-       
-
     }
+}
+
+.content-div {
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;    
+}
+
+a:hover {
+    color: rgb(245, 245, 250)
+ }
+
+.content-div:hover {
+    background-image: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0.8),
+        teal   
+    )!important;
 }
 
