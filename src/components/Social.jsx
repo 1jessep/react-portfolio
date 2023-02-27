@@ -36,7 +36,7 @@ return (
               <div className='hover:scale-110 duration-500'>
               <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='jessepstynchcomb@gmail.com'
+              href='mailto:jessepstynchcomb@gmail.com'
             >
               <HiOutlineMail size={70} />
             </a>
