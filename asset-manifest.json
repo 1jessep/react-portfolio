@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.69c349a0.css",
+    "main.js": "/react-portfolio/static/js/main.b4bd9384.js",
+    "static/media/movies2.png": "/react-portfolio/static/media/movies2.09a1dfb012059e398551.png",
+    "static/media/gamer2.png": "/react-portfolio/static/media/gamer2.1471f13ef0ccec375c9d.png",
+    "static/media/face.png": "/react-portfolio/static/media/face.8e5a2390675b9d0e1bd1.png",
+    "static/media/workday2.png": "/react-portfolio/static/media/workday2.b572b551e097d8865ee6.png",
+    "static/media/weather2.png": "/react-portfolio/static/media/weather2.1c5d84b1fc2ff01dfb4d.png",
+    "static/media/jate2.png": "/react-portfolio/static/media/jate2.c8bfc0ca9308b426724e.png",
+    "static/media/password2.png": "/react-portfolio/static/media/password2.b0c347ff056ff860500b.png",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.69c349a0.css.map": "/react-portfolio/static/css/main.69c349a0.css.map",
+    "main.b4bd9384.js.map": "/react-portfolio/static/js/main.b4bd9384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c349a0.css",
+    "static/js/main.b4bd9384.js"
+  ]
+}
