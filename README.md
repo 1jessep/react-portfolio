@@ -1,5 +1,10 @@
 # Jessep's React Portfolio
 
+SCREENSHOT:
+![image](https://user-images.githubusercontent.com/110129027/221932833-8338089f-3e58-4da7-8753-1dc852aff254.png)
+
+MOBILE:
+![image](https://user-images.githubusercontent.com/110129027/221933049-a2fda7c5-b627-4b3f-828a-4b9e3299740d.png)
 
 
   # Table of Contents
