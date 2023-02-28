@@ -18,10 +18,10 @@ const Work = () => {
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-teal-600">
-            Work
+            Projects
           </p>
           <p className="py-3 pb-0 text-xl">
-            These are some of the projects I've been working on.
+            These are some of the things I've been working on.
           </p>
         </div>
         
