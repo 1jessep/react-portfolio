@@ -21,7 +21,7 @@ const Work = () => {
             Work
           </p>
           <p className="py-3 pb-0 text-xl">
-            These are some of the things I've been working on.
+            These are some of the projects I've been working on.
           </p>
         </div>
         
