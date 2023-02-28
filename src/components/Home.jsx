@@ -13,7 +13,7 @@ const Home = () => {
           Jessep Stynchcomb
         </h1>
         <div>
-        <img className=' h-[400px] m-auto p-8' src={face} alt="face" />
+        <img className=' h-[400px] object-contain m-auto p-8' src={face} alt="face" />
                   <p className='my-auto'>Me</p>
               </div>
         <h2 className='text-4xl sm:text-4xl font-bold text-[#8892b1]'>
@@ -22,7 +22,7 @@ const Home = () => {
         <p className='text-[teal] py-4 mx-auto text-2xl max-w-[500px]'>
           Welcome to my portfolio.
         </p>
-        
+
         <div>
         <a href="https://drive.google.com/file/d/19qdD9fLJ2VSjCHq6xf-Z-zLgkBAKwHO7/view?usp=sharing">
           <button className='text-white border-2 rounded px-6 py-3 my-2 mx-auto flex items-center hover:bg-teal-600 hover:border-[teal] hover:text-black'>
