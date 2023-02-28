@@ -1,12 +1,6 @@
 # Jessep's React Portfolio
 
 
-SCREENSHOT:
-![image](https://user-images.githubusercontent.com/110129027/221908132-8c9b4444-7233-4ec0-acec-3bf766bfe306.png)
-
-MOBILE VIEW:
-![image](https://user-images.githubusercontent.com/110129027/221928349-21a3ccd8-7729-414d-aa0d-b36b4af471f7.png)
-
 
   # Table of Contents
   1. [Project Title](#Title)
