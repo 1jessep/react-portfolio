@@ -6,6 +6,7 @@ import weather2 from "../assets/weather2.png";
 import password2 from "../assets/password2.png";
 import jate2 from "../assets/jate2.png";
 import workday2 from "../assets/workday2.png";
+import mojave from '../assets/mojave.png'
 
 import {
   FaGithub,
@@ -83,17 +84,17 @@ const Work = () => {
           </div>
 
 
-          {/* JATE Project */}
+          {/* MOJAVE Project */}
           <div
-            style={{ backgroundImage: `url(${jate2})` }}
+            style={{ backgroundImage: `url(${mojave})` }}
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             <div className="opacity-0 group-hover:opacity-100 duration-500">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Just Another Text Editor
+                MOJAVE
               </span>
               <div className="pt-8 text-center">
-                <a href="https://jesseps-text-editor.herokuapp.com/">
+                <a href="https://mojave-store.herokuapp.com/">
                 <button className="text-center rounded-lg flex flex-col px-5 py-3 m-auto bg-white text-gray-800 font-bold text-lg">
                     Live
                   </button>
@@ -101,7 +102,7 @@ const Work = () => {
                 <div className='hover:scale-110 duration-500'>
               <a
               className='flex flex-col py-5 justify-between items-center  text-gray-100'
-              href='https://github.com/1jessep/jesseps-text-editor'>
+              href='https://github.com/1jessep/Mojave'>
               <FaGithub size={50} />
             </a>
               </div> 
