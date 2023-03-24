@@ -1,6 +1,6 @@
 import React from "react";
 
-import gamer2 from "../assets/gamer2.png";
+//import gamer2 from "../assets/gamer2.png";
 import movies2 from "../assets/movies2.png";
 import weather2 from "../assets/weather2.png";
 import password2 from "../assets/password2.png";
@@ -30,31 +30,7 @@ const Work = () => {
         {/* Projects Container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-7 pb-20">
 
-          {/* The Triggered Gamer Project */}
-          <div
-            style={{ backgroundImage: `url(${gamer2})` }}
-            className="group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            <div className="opacity-0 group-hover:opacity-100 duration-500">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                The Triggered Gamer
-              </span>
-              <div className="pt-8 text-center">
-                <a href="https://the-triggered-gamer.herokuapp.com/">
-                  <button className="text-center rounded-lg flex flex-col px-5 py-3 m-auto bg-white text-gray-800 font-bold text-lg">
-                    Live
-                  </button>
-                </a>
-                <div className='hover:scale-110 duration-500'>
-              <a
-              className='flex flex-col py-5 justify-between items-center  text-gray-100'
-              href='https://github.com/1jessep/The_Triggered_Gamer'>
-              <FaGithub size={50} />
-            </a>
-              </div> 
-              </div>
-            </div>
-          </div>
+          
 
 
           {/* Movies That Move Project */}
@@ -156,6 +132,36 @@ const Work = () => {
               <a
               className='flex flex-col py-5 justify-between items-center  text-gray-100'
               href='https://github.com/1jessep/module3passwordgenerator'>
+              <FaGithub size={50} />
+            </a>
+              </div> 
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+          {/* JATE */}
+          <div
+            style={{ backgroundImage: `url(${jate2})` }}
+            className="group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            <div className="opacity-0 group-hover:opacity-100 duration-500">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Just Another Text Editor
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://jesseps-text-editor.herokuapp.com/">
+                  <button className="text-center rounded-lg flex flex-col px-5 py-3 m-auto bg-white text-gray-800 font-bold text-lg">
+                    Live
+                  </button>
+                </a>
+                <div className='hover:scale-110 duration-500'>
+              <a
+              className='flex flex-col py-5 justify-between items-center  text-gray-100'
+              href='https://github.com/1jessep/jesseps-text-editor'>
               <FaGithub size={50} />
             </a>
               </div> 
