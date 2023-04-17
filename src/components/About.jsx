@@ -14,9 +14,9 @@ const About = () => {
 
           <div className='max-w-[600px] w-full grid text-2xl gap-8 px-4'>
             <div>
-              <p>I am a full stack web developer enrolled in the SMU Coding Bootcamp and currently
-                reside in Denton, Texas.  I hope to 
-                find a job that allows me to learn and grow as a developer. I am proficient in HTML, CSS, JAVASCRIPT, REACT, and more.
+              <p>I am a full stack web developer that currently
+                resides in Denton, Texas. I hope to 
+                find a job that allows me to learn and grow as a developer. I graduated the SMU Coding Bootcamp and I'm certified in HTML, CSS, JAVASCRIPT, REACT, and more.
                  I believe I can be
                 a major asset to any team. Thanks for stopping by and let me know what you think!  </p>  
             </div>
