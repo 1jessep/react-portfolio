@@ -1,5 +1,5 @@
 import React from 'react';
-import face from '../assets/face.png'
+import avi from '../assets/avi.png'
 
 const Home = () => {
   return (
@@ -13,7 +13,7 @@ const Home = () => {
           Jessep Stynchcomb
         </h1>
         <div>
-        <img className=' h-[400px] object-contain m-auto p-8' src={face} alt="face" />
+        <img className=' h-[400px] object-contain m-auto p-8' src={avi} alt="face" />
                   <p className='my-auto'>Me</p>
               </div>
         <h2 className='text-4xl sm:text-4xl font-bold text-[#8892b1]'>
