@@ -94,10 +94,10 @@ const Work = () => {
           >
             <div className="opacity-0 group-hover:opacity-100 duration-500">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Weather Dashboard
+                Weather Dashboard 2.0
               </span>
               <div className="pt-8 text-center">
-                <a href="https://1jessep.github.io/jessepsweatherdashboard/">
+                <a href="https://1jessep.github.io/weatherdashboard2.0/">
                 <button className="text-center rounded-lg flex flex-col px-5 py-3 m-auto bg-white text-gray-800 font-bold text-lg">
                     Live
                   </button>
@@ -105,7 +105,7 @@ const Work = () => {
                 <div className='hover:scale-110 duration-500'>
               <a
               className='flex flex-col py-5 justify-between items-center  text-gray-100'
-              href='https://github.com/1jessep/jessepsweatherdashboard'>
+              href='https://github.com/1jessep/weatherdashboard2.0'>
               <FaGithub size={50} />
             </a>
               </div> 

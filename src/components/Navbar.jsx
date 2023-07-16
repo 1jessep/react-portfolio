@@ -12,7 +12,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-full h-[30px] flex justify-between items-center px-4 bg-[teal] text-gray-300 '>
+    <div className='fixed w-full h-[30px] flex justify-between items-center px-4 bg-[teal] text-lg text-gray-300 '>
    
       {/* navbar */}
       <ul className='hidden md:flex m-auto'>

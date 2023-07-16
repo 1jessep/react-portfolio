@@ -14,11 +14,13 @@ const About = () => {
 
           <div className='max-w-[600px] w-full grid text-2xl gap-8 px-4'>
             <div>
-              <p>I am a full stack web developer that currently
-                resides in Denton, Texas. I hope to 
-                find a job that allows me to learn and grow as a developer. I graduated the SMU Coding Bootcamp and I'm certified in HTML, CSS, JAVASCRIPT, REACT, and more.
-                 I believe I can be
-                a major asset to any team. Thanks for stopping by and let me know what you think!  </p>  
+              <p>Hi my name is Jessep Stynchcomb. I'm 30 years old and currently reside in Denton, Texas. 
+                I graduated from Southern Methodist University's Fullstack Coding Bootcamp and 
+                earned my certification in Fullstack Web Development. I am looking for a remote position 
+                that will allow me to learn and grow as a young developer. I have worked on a variety of 
+                different projects using Javascript, React.js, CSS, HTML, Node.js, Tailwind, Git, and more. 
+                Thank you for your time and I hope to hear from you. 
+  </p>  
             </div>
           </div>
       </div>

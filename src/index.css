@@ -7,7 +7,7 @@
         @apply text-center;    
     }
     li {
-        @apply px-4;
+        @apply px-6;
         @apply cursor-pointer;
         
     }
@@ -31,4 +31,6 @@ a:hover {
         teal   
     )!important;
 }
+
+
 
