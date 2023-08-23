@@ -10,7 +10,7 @@ const Social = () => {
 return (
 <div name='social' className='w-full h-screen bg-black text-gray-300'>
  
-      <div className='max-w-[1000px] mx-auto py-20 flex flex-col justify-center w-full h-full'>
+      <div className='max-w-[1000px] mx-auto py-64 flex flex-col justify-center w-full h-full'>
           <div>
               <p className='text-4xl font-bold inline border-b-4 border-teal-600 '>Social</p>   
           </div>
