@@ -12,36 +12,36 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-full h-[30px] flex justify-between items-center px-4 bg-[teal] text-lg text-gray-300 '>
+    <div className='fixed w-full h-[50px] flex justify-between items-center px-4 bg-[#008080ca] text-2xl text-gray-100 '>
    
       {/* navbar */}
       <ul className='hidden md:flex m-auto'>
-        <li>
+        <li className='hover:scale-110 duration-300'>
           <Link to='home' smooth={true} duration={300}>
             Home
           </Link>
         </li>
-        <li>
+        <li className='hover:scale-110 duration-300'>
           <Link to='about' smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li>
+        <li className='hover:scale-110 duration-300'>
           <Link to='skills' smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li>
+        <li className='hover:scale-110 duration-300'>
           <Link to='work' smooth={true} duration={500}>
             Projects
           </Link>
         </li>
-        <li>
+        <li className='hover:scale-110 duration-300'>
           <Link to='contact' smooth={true} duration={500}>
             Contact
           </Link>
         </li>
-        <li>
+        <li className='hover:scale-110 duration-300'>
           <Link to='social' smooth={true} duration={500}>
             Social
           </Link>
@@ -63,7 +63,7 @@ const Navbar = () => {
         className={
           !nav
             ? 'hidden'
-            : 'absolute top-0 left-0 w-full h-screen bg-black flex flex-col justify-center items-center'
+            : 'absolute top-0 left-0 w-full h-screen bg-[black] flex flex-col justify-center items-center'
         }
       >
         <li className='py-6 text-4xl'>

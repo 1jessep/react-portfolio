@@ -35,7 +35,7 @@ const Home = () => {
 
         <div>
         <a href="https://drive.google.com/file/d/19qdD9fLJ2VSjCHq6xf-Z-zLgkBAKwHO7/view?usp=sharing">
-          <button className='text-white border-2 rounded px-6 py-3 my-2 mx-auto flex items-center hover:bg-teal-600 hover:border-[teal] hover:text-black md:animate-pulse'>
+          <button className='text-white border-2 rounded px-6 py-3 my-2 mx-auto flex items-center hover:bg-[#008080ac] hover:border-[#0080806a] hover:text-gray-100 md:animate-pulse'>
             Download Resume
           </button></a>
         </div>
